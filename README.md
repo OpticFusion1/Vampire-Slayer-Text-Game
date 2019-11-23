@@ -23,13 +23,12 @@ to automate above two commands. This is suggested method since it will clean out
 
 ## How to Play
 You will be guided to following screen upon successful run:
-
 ![beginning][intro]
 
 
 ### Initial Run
 ___
-You will then be asked for desired size of the field, numbers of enemies you want in your map, number of moves you can make, and difficulty settings. When you choose easy mode, your enemies will not move; in hard mode, all of your enemies will randomly move as much as you did. Following is the example of what would map look like:
+You will then be asked for desired size of the field, numbers of enemies you want in your map, number of moves you can make, and difficulty settings. When you choose easy mode, your enemies will not move; in hard mode, all of your enemies will randomly move as much as you did. Following is the example of what would map look like this:
 ![initial-run][first_run]
 
 In this scenario, dimension of map is 10x10 with 10 moves left. Your character is represtended as _@_ and your enemies are represented with _v_.
@@ -43,7 +42,6 @@ Second map shows the physical representation of what map looks like. You will ne
 ### N-th Run
 ___
 Once it asks you for your moveset, you can enter any characters you want for many times to make movement. However, only letter 'w', 'a', 's', and 'd' will move your character. Following is the example of what happens when you move:
-
 ![n-th_run][n-th]
 
 In this example, it recognized letter 'd' and 's'. Since there is two 'd' and one 's', you moved to position to the right and one position to the left. As a result, one of your enemies has been eliminated. You may also noticed that the number of vampires in both maps and timer has been reduced by one. In hard mode, all of the vampires in map above will move to different position after your turn.
