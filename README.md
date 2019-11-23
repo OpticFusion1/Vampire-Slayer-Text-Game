@@ -24,3 +24,7 @@ to automate above two commands. This is suggested method since it will clean out
 ## How to Play
 You will be guided to following screen upon successful run:
 
+![beginning][intro]
+
+[intro]: https://github.com/ruikawahara/Vampire-Slayer-Text-Game/blob/master/img/intro.PNG "Start Screen"
+
